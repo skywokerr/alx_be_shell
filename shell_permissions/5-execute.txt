@@ -1,8 +1,6 @@
 #!/bin/bash
 
-# Add execute permission to the owner of the file hello
-chmod u+x hello
+chmod u+x hello  # Add execute permission to the owner of the file hello
 
-# Verify the change
-ls -l hello
+ls -l hello   # Verify the change
 
